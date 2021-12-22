@@ -9,3 +9,4 @@ Launch Date Outcomes Chart ("C:\Users\Shane\OneDrive\Documents\00 Data Analytics
 ---
 The average campaign goal for musicals in Great Britain is around 4,000 euros which is higher than the highest amount pledged to the campaigns. It is recommended that Louise gets her play produced for less than 4,000 euros.
 Great Britain Musical Chart ("C:\Users\Shane\OneDrive\Documents\00 Data Analytics Bootcamp\Module 1 - Excel\Crowdfunding_Analysis\B&W_Chart_Description.png")
+---
